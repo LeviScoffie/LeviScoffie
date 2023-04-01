@@ -1,4 +1,8 @@
- Hi There 👋
+ ### Hi There 👋
+ 
+ I'm Levis from Kenya, and I'm a Web 3  Data Analyst. I really enjoy learning languages like Typescript and GraphQl and frameworks like React and Next.js, as well as work in SQL. I also enjoy building subgraphs that index blockchain data directly from node providers. You can check out my twitter at [scoffie](https://twitter.com/iithundio).
+ 
+ 
  
  
  <div id="header" align="center">
